@@ -1,5 +1,5 @@
 # Text Sentiment Classification Application
 
-launch the backend with ./scripts/backend/main.py
+launch the backend with python `./scripts/backend/main.py`
 
-launch the frontend with npm start
+launch the frontend with `npm start`
